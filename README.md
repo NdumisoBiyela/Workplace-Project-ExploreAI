@@ -8,7 +8,6 @@
 * [2. Dataset](#dataset)
 * [3. Packages](#packages)
 * [4. Environment](#environment)
-* [5. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
 Insurance plays a vital role in the economy by providing financial security and stability, which enables economic growth and development.Insurance fraud not only affects insurance companies but also has broader economic and social impacts, leading to higher costs for consumers, financial instability, and reduced accessibility to insurance.
